@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I am **Venkata Vasu Deva Reddy Mulamreddy**, a passionate **B.Tech Computer Science & Engineering** student from BIHER, Chennai. I specialize in **SQL database development**, **Python programming**, and **AI/ML engineering** — building intelligent, data-driven systems that solve real-world problems.
+I am **Venkata Vasu Deva Reddy Mulamreddy**, a passionate **B.Tech Computer Science & Engineering** graduate from BIHER, Chennai. I specialize in **SQL database development**, **Python programming**, and **AI/ML engineering** — building intelligent, data-driven systems that solve real-world problems.
 
 - 🎓 B.Tech CSE — BIHER, Chennai (CGPA: 7.5)
 - 🌍 Ongole, Andhra Pradesh, India (Open to Relocation)
@@ -19,7 +19,7 @@ I am **Venkata Vasu Deva Reddy Mulamreddy**, a passionate **B.Tech Computer Scie
 - 🗄️ Strong in SQL — PostgreSQL, MySQL, SQLite, query optimization
 - 🔭 Building data-driven AI/ML applications with Python + SQL backends
 - 📫 Email: **mulamreddyvasudevaareddy@gmail.com**
-- 📞 Phone: **+91 9390792632**
+- 📞 Phone: **+91 8885572221**
 - 🔗 LinkedIn: [venkata-vasu-deva-reddy-mulamreddy-6666vdr](https://linkedin.com/in/venkata-vasu-deva-reddy-mulamreddy-6666vdr)
 - 🌐 Portfolio: [MVVasudevreddy.github.io](https://MVVasudevreddy.github.io)
 
@@ -87,11 +87,6 @@ I am **Venkata Vasu Deva Reddy Mulamreddy**, a passionate **B.Tech Computer Scie
 - **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Matplotlib
 - **Key Work:** Feature engineering, lag-based features, time-aware train-test splits, model evaluation
 - 🔗 [GitHub Repo](https://github.com/MVVasudevreddy/Machine-learning)
-
-### 🏫 NCC Management System
-> Full-stack web app for managing NCC cadet records, activities, and reports.
-- **Tech Stack:** Python, Flask, MySQL, HTML/CSS, JavaScript
-- **Key SQL Work:** CRUD operations, relational schema design, joins, reporting queries
 
 ---
 
