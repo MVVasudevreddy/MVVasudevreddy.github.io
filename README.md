@@ -124,7 +124,7 @@ I am **Venkata Vasu Deva Reddy Mulamreddy**, a passionate **B.Tech Computer Scie
 | Platform | Details |
 |----------|---------|
 | 📧 Email | mulamreddyvasudevaareddy@gmail.com |
-| 📞 Phone | +91 9390792632 |
+| 📞 Phone | +91 8885572221 |
 | 💼 LinkedIn | [venkata-vasu-deva-reddy-mulamreddy-6666vdr](https://linkedin.com/in/venkata-vasu-deva-reddy-mulamreddy-6666vdr) |
 | 🌐 Portfolio | [MVVasudevreddy.github.io](https://MVVasudevreddy.github.io) |
 | 💻 GitHub | [github.com/MVVasudevreddy](https://github.com/MVVasudevreddy) |
