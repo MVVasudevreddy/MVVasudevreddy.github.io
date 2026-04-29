@@ -18,7 +18,7 @@ I am **Venkata Vasu Deva Reddy Mulamreddy**, a passionate **B.Tech Computer Scie
 - 💼 Former ML Intern at **VCodEZ** (Nov 2025 – Feb 2026)
 - 🗄️ Strong in SQL — PostgreSQL, MySQL, SQLite, query optimization
 - 🔭 Building data-driven AI/ML applications with Python + SQL backends
-- 📫 Email: **mulamreddyvasudevaareddy@gmail.com**
+- 📫 Email: **vasudevreddy7832@gmail.com**
 - 📞 Phone: **+91 8885572221**
 - 🔗 LinkedIn: [venkata-vasu-deva-reddy-mulamreddy-6666vdr](https://linkedin.com/in/venkata-vasu-deva-reddy-mulamreddy-6666vdr)
 - 🌐 Portfolio: [MVVasudevreddy.github.io](https://MVVasudevreddy.github.io)
