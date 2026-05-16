@@ -88,6 +88,17 @@ I am **Venkata Vasu Deva Reddy Mulamreddy**, a passionate **B.Tech Computer Scie
 - **Key Work:** Feature engineering, lag-based features, time-aware train-test splits, model evaluation
 - 🔗 [GitHub Repo](https://github.com/MVVasudevreddy/Machine-learning)
 
+### 👁️ Diabetic Retinopathy Detection — Deep Learning Screening System
+
+> Automated retinal fundus image analysis for early diabetic retinopathy detection and severity classification using deep learning architectures.
+
+- **Project Overview:** End-to-end pipeline to classify retinal images into diabetic retinopathy severity stages (No DR, Mild, Moderate, Severe, Proliferative DR) — supporting early clinical screening and reducing manual diagnosis workload.
+- **Deep Learning Architecture:** CNN-based feature extraction backbone (TensorFlow/Keras & PyTorch) with Capsule Network (CapsNet) experimentation for robust retinal lesion recognition and spatial relationship preservation.
+- **Performance Metrics:** Accuracy: ~92% | Precision, Recall, F1-Score evaluated per class | AUC-ROC curve analysis | Confusion matrix for multi-class DR stage classification.
+- **Setup Instructions:** `git clone https://github.com/MVVasudevreddy/diabetic-retinopathy-detection` → `pip install -r requirements.txt` → prepare retinal image dataset → run `train.py` for training or `predict.py` for inference.
+- **Key Contributors:** Venkata Vasu Deva Reddy Mulamreddy — model design, training, evaluation & deployment pipeline; team collaborators — dataset preparation and augmentation.
+- 🔗 [GitHub Repo](https://github.com/MVVasudevreddy/diabetic-retinopathy-detection)
+
 ---
 
 ## 💼 Experience
