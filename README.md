@@ -126,7 +126,7 @@ I am **Venkata Vasu Deva Reddy Mulamreddy**, a passionate **B.Tech Computer Scie
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.Tech — CSE | BIHER, Chennai | 2022–2026 | CGPA: 7.5 |
+| B.Tech — CSE | BIHER, Chennai | 2022–2026 | 75% |
 | Class XII — MPC | Sri Saraswati Junior College, AP | 2020–2022 | 90% |
 | Class X — SSC | Sri Sai High School, AP | 2020 | 98% |
 
